@@ -62,11 +62,12 @@
                                                   },
                                                   {
                                                   "type": "label",
-                                                  "text": "Wonderful World",
+                                                  "text": "Wonderful World!",
                                                   "style": {
                                                   "align": "center",
                                                   "font": "HelveticaNeue-Bold",
-                                                  "size": "25"
+                                                  "size": "25",
+                                                  "color": "blue"
                                                   }
                                                   }
                                                   ]
